@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type='text/xsl' href='test.xsl'?>
+<elements attr1="Главный атрибут">
+  <element attr1="мой атрибут1" attr2="мой атрибут2">Один</element>
+  <element>Два</element>
+  <element attr5="Халявный атрибут">Три</element>
+</elements>
